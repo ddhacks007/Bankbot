@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/f416723b6757ab5cef395ba08e804a3b5cb30cfe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5335ddfcc47108dd0649aabf97e710c06ef36f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/e160bcb09ab11aedbce498ba2125280d77f40931/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68f5f1799b5e2e116a31478ab6013fa3cfac8398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/9bdb1c91a3200323459aaf0aa8b2c5aba3e79f9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be011d298c184ddaa33587f7c98181f6533315b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53e52b1152bf5b21b424dc2d76ee8bd04231331b">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_080b41f0f8a3f749d7d1b4f9cef4f3722ccca98f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/0c8595a977bf24959947bfc06939ce074f6797fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74e0ff62a4cc1d83cc8cd19a8d80f4cde60f2d76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/17c545830cf8591471b4e6f96035de18691ede66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_704952b83195d6edf9936f6a4c59e116af500994/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/381bad488a661ea52aaeb3d1f65691398e12549e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_769b31fed7052d47d59a03942c8e23f142d7d473/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/6c902a8f132bef1da8cce5cdd8c155098734c8fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f820a83ed033ca79debefabea57db2355d52249/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_e18e4d6949f377eb6343d7021a23c233d5661fed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/6276dc8af4f8a2d59f9f92d8380c593bba9e7e61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da184b1ea9c086f1541134350b732797e81824b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/c07bc083f025960bf2d927670c5c476ad5f7b505/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66df3561c43e57173d0f55e08b15dbd8aaf43a0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/d87fe2c711de3b08bc114eeb6c37e5fbbd437418/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_226bb0f8f8a9281e04557d6f5fc2b21f22291230/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_63b02b6856a06a07799f1d43af9fe8c496654825/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4eba2ae307c32e535d968c874d404bc3fae6ebd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/0939d2054d0569cdf232221f83c19fc07eb9d2e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36a4705e95b11e325d1524662ab8febdad418884/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/434bd3a51225f2c838170007ae23a6ee870abe44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56a5722b82262b5d09bc65dad75fa3e08808a4b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/9e1ebd29bfad47b4327d252d1f68beb2d4821d9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f53b616ecbd8175cbe8ebf129dbc5b9130183f92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepak/.android/build-cache/52a664397410e962c525299a9107599f7cf073f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f0ead65b37e314ab02ad535ddc54047d113afcc/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/deepak/.android/build-cache/c07bc083f025960bf2d927670c5c476ad5f7b505/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/deepak/.android/build-cache/0939d2054d0569cdf232221f83c19fc07eb9d2e0/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/deepak/.android/build-cache/0939d2054d0569cdf232221f83c19fc07eb9d2e0/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/deepak/.android/build-cache/c07bc083f025960bf2d927670c5c476ad5f7b505/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/deepak/.android/build-cache/c07bc083f025960bf2d927670c5c476ad5f7b505/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/deepak/.android/build-cache/0939d2054d0569cdf232221f83c19fc07eb9d2e0/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/deepak/.android/build-cache/c07bc083f025960bf2d927670c5c476ad5f7b505/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/deepak/.android/build-cache/0939d2054d0569cdf232221f83c19fc07eb9d2e0/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

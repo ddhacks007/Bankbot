@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/deepak/.android/build-cache/0939d2054d0569cdf232221f83c19fc07eb9d2e0/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/deepak/.android/build-cache/0939d2054d0569cdf232221f83c19fc07eb9d2e0/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/deepak/.android/build-cache/0939d2054d0569cdf232221f83c19fc07eb9d2e0/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/deepak/AndroidStudioProjects/Bankingbot/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/deepak/.android/build-cache/0939d2054d0569cdf232221f83c19fc07eb9d2e0/output/res/layout-v21/notification_action.xml"
+    }
+]
